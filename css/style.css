@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EBDD7F;
+    overflow: hidden;
+}
+
+.foto {
+    width: 60%;
+    max-width: 600px;
+    height: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 50%;
+}
+
+.side-bar {
+    background-color: #070F2B;
+    width: 25%;
+    height: 100%;
+}
+
+.navi {
+    text-align: center;
+}
+
+nav a {
+    font-family: "Varela Round", sans-serif;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+
+.content {
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 20px;
+}
+
+.nome {
+    font-size: 60px;
+    font-family: "Varela Round", sans-serif;
+}
+
+
+section .info {
+    margin-top: -60px;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+
+}
+
+.texto {
+    margin-top: 90px;
+    text-align: left;
+    font-size: 20px;
+    width: 50em;
+    word-wrap: break-word;
+}
+
+.icon img {
+    width: 40px;
+    height: auto;
+    margin-right: 30px;
+    padding: 40px;  
+}
+
+article {
+    margin-top: 20%;
+}
+
+.programas {
+    margin-left: 40px;
+    font-size: 25px;
+}
