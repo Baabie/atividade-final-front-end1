@@ -81,3 +81,7 @@ article {
     margin-left: 40px;
     font-size: 25px;
 }
+
+article .descricao {
+    margin-left: 40px;
+}
